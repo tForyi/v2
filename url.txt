@@ -1,0 +1,5 @@
+VMess协议链接：
+vmess://eyJ2IjoiMiIsInBzIjoiaGljYWlyby5jb20iLCJhZGQiOiJ2MnJheU4uRm9yeWkucmVwbC5jbyIsInBvcnQiOiI0NDMiLCJpZCI6ImRlMDRhZGQ5LTVjNjgtOGJhYi05NTBjLTA4Y2Q1MzIwZGYxOCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InYycmF5Ti5Gb3J5aS5yZXBsLmNvIiwicGF0aCI6Ii92bWVzcyIsInRscyI6InRscyJ9
+
+VLess协议链接：
+vless://de04add9-5c68-8bab-950c-08cd5320df18@v2rayN.Foryi.repl.co:443?encryption=none&security=tls&type=ws&host=v2rayN.Foryi.repl.co&path=%2Fvless#hicairo.com
